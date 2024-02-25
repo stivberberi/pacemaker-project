@@ -5,6 +5,11 @@
 *.slx.r*
 *.mdl.r*
 
+# binaries
+*.bin
+*.hex
+*.elf
+
 # Derived content-obscured files
 *.p
 
@@ -31,3 +36,8 @@ codegen/
 
 # Cloud based storage dotfile
 .MATLABDriveTag
+
+
+resources/*
+*ert_rtw/
+*.prj
